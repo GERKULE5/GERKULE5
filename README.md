@@ -45,9 +45,3 @@
 
 - 📊 Passionate about BI analytics and data science alongside backend development
 - 🏗 Love building scalable backend systems
-
-## 📈 GitHub Stats
-
-![GERKULE5's GitHub stats](https://github-readme-stats.vercel.app/api?username=GERKULE5&show_icons=true&theme=radical&hide=contribs,prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GERKULE5&layout=compact&theme=radical)
