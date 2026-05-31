@@ -1,6 +1,6 @@
 ### Hi there! I'm a Fullstack Developer 👋
 
-🇷🇺 Based in Russia | 1.5 year of commercial experience
+🇷🇺 Based in Russia | 1 year of commercial experience
 
 ## 🛠 Tech Stack
 
