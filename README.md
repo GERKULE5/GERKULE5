@@ -41,17 +41,6 @@
 
 [![Architecture](https://skillicons.dev/icons?i=docker,git,github,gitlab)](https://skillicons.dev)
 
-## 💬 Ask me about
-
-- Building REST APIs with FastAPI and NestJS
-- Working with SQL databases and Redis
-- Message queuing with Kafka
-- Transitioning from Python/Node.js to Go
-
-## 📫 Connect with me
-
-- Email: [konstantinkochengin44@gmail.com]
-
 ## ⚡ A bit more about me
 
 - 📊 Passionate about BI analytics and data science alongside backend development
