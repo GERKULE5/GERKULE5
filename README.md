@@ -29,7 +29,7 @@
 
 **Core Skills:**
 
-[![Core Skills](https://skillicons.dev/icons?i=js,ts,nestjs,prisma,go,python,fastapi)](https://skillicons.dev)
+[![Core Skills](https://skillicons.dev/icons?i=go,ts,nestjs,prisma,python,fastapi)](https://skillicons.dev)
 
 **Databases & Messaging:**
 
