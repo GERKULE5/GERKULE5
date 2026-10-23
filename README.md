@@ -1,6 +1,6 @@
 ### Hi there! I'm a Backend Developer 👋
 
-🇷🇺 Based in Russia | more than 1 year of commercial experience
+🇷🇺 Based in Russia | more than 1.5 year of commercial experience
 
 <picture>
   <source
